@@ -1,6 +1,6 @@
 {
   "name": "KinoPub",
-  "version": "2.0",
+  "version": "3.0",
   "parameter": "content:https://mfkrdruid.github.io/msx/start.json",
-  "action": "link:https://cdnservices.link"
+  "action": "link:http://cdnservices.link/bootstrap.html"
 }
